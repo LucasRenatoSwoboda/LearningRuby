@@ -1,0 +1,11 @@
+Terminal > Para instalar o cucumber no diretório inicial:
+gem install cucumber 
+
+Terminal > Para iniciar um projeto com cucumber:
+cucumber --init
+
+Arquivo > Gemfile:
+gems para a automação
+
+Terminal > bunble install  
+vai fazer a instalação das gems dos arquivos Gemfile e suas dependências
